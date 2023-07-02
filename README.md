@@ -20,4 +20,4 @@ The program uses the `isValidTriangle()` function to check if a triangle can be 
 
 ### How to Run
 
-To run the program, open the HTML file in a web browser. The program will display prompts for entering the lengths of the triangle sides, and the result will be displayed in the HTML element with the ID `myDiv1`. Test it on this link: 
+To run the program, open the HTML file in a web browser. The program will display prompts for entering the lengths of the triangle sides, and the result will be displayed in the HTML element with the ID `myDiv1`. Test it on this link: https://triangleformationchecker.netlify.app/
